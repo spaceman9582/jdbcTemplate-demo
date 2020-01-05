@@ -6,6 +6,7 @@
 
 package com.example.jdbcTemplatedemo.controller;
 
+import com.example.jdbcTemplatedemo.model.TestModel;
 import com.example.jdbcTemplatedemo.service.TestServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
